@@ -10,7 +10,7 @@ __Note__: I will add only instructions for setting up Docker on MacOS so anyone 
 
 1. Open the Terminal application ([like this](http://www.wikihow.com/Open-a-Terminal-Window-in-Mac))
 2. Navigate to desired folder where you want to store the files 
-3. Retrieve all of the code for this LiveLessons by executing `git clonehttps://github.com/djovanoski/tensorflow_germany.git` (if you haven't used `git` before, you may be prompted to install Xcode -- do it!)
+3. Retrieve all of the code for this LiveLessons by executing `git clone https://github.com/djovanoski/tensorflow_germany.git` (if you haven't used `git` before, you may be prompted to install Xcode -- do it!)
 4. [Install the Docker "Stable channel"](https://docs.docker.com/docker-for-mac/install/) (if you are already using an older version of Docker and run into installation issues downstream, try updating to the latest version of Docker)
 5. Start Docker, e.g., by using Finder to navigate to your Applications folder and double-clicking on the Docker icon
 6. Move into the *tensorflow_germany* directory by executing `cd tensorflow_germany`
